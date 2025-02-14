@@ -1,0 +1,15 @@
+{
+  "pluginName": "PicProse",
+  "version": "0.0.1",
+  "description": "封面图生成器",
+  "keywords": [
+    "PicProse"
+  ],
+  "entry": "index.html",
+  "pluginType": "ui",
+  "mode": "multi",
+  "logo": "./pic-prose.png",
+  "webContainer": true,
+  "author": "",
+  "homepage": "https://github.com/jaaronkot/picprose"
+}

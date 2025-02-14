@@ -1,0 +1,11 @@
+{
+  "name": "toolkit-pic-prose",
+  "version": "0.0.1",
+  "description": "脑思维图",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
